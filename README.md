@@ -1,2 +1,1 @@
-# churchofhaskell.co
-rejoice sinners
+
